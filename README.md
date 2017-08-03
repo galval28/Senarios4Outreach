@@ -6,7 +6,7 @@ If these scenarios feel too difficult or intimidating please check out thies tut
 
 <p>https://www.arduino.cc/en/Tutorial/Blink
 
-<p> ![alt text](https://github.com/galval28/Senarios4Outreach/blob/master/Screen%20Shot%202017-08-03%20at%208.16.51%20AM.png)
+![alt text](https://github.com/galval28/Senarios4Outreach/blob/master/Screen%20Shot%202017-08-03%20at%208.16.51%20AM.png)
 
 
  <p>This tutorial teaches you how to control and blink an LED.(Light Emmiting Diode)
