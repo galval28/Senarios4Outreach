@@ -36,6 +36,8 @@ void loop() {
   //if(readValue < put a number here){
   digitalWrite(ledPin1, HIGH);
   }
+else(){
+digitalWrite(ledPin,LOW)} //this turns off the LED when it's not in use
 //use the code snippets above to finish the project and make it your own!!
 //don't be afraid to ask for help!
 }
