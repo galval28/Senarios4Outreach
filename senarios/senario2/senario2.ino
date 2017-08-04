@@ -10,8 +10,8 @@
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
-//set the RF radio with which pins it's on
-RF24 radio(8, 9);
+//set the RF radio with which pins it's on these match the CE and CSN pins that you wired from the transciver to the arduino 
+RF24 radio(9, 10);
 
 // constant Variables
 const byte rxAddr[6] = "00001";
